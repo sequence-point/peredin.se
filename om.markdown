@@ -19,7 +19,8 @@ Under åren har jag programmerat frontend och backend, på mainstream-system som
 Windows, Linux och macOS till lite mer obskyra plattformar som EPOC och BeOS.
 
 På fritiden tycker jag om att [fotografera](https://instagram.com/peredin.se),
-bygga Lego modeller eller programmera på mina egna projekt.
+bygga Lego modeller eller programmera på mina egna
+[projekt](https://sequence-point.se/open-source).
 
 ## Kompetensurval
 
