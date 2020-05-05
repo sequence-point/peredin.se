@@ -22,7 +22,7 @@ Utveckling av lagerhanteringssystemet Woodland WMS till Sequence Point AB.
 
 Mer information om Woodland WMS finns att läsa på [Woodland WMS webbplats].
 
-Teknik: Angular, C#, C++, PostgreSQL, TypeScript, Xamarin, [build2], [odb]
+Teknik: Angular, C#, C++, PostgreSQL, TypeScript, Xamarin, [build2], [odb].
 
 [build2]: https://build2.org/
 [odb]: https://codesynthesis.com/products/odb/
