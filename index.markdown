@@ -1,6 +1,9 @@
 ---
 layout: page
+title:
 ---
+
+<h1>Välkommen!</h1>
 
 Jag åtar mig konsultuppdrag inom systemutveckling, systemarkitektur,
 framtagning av Proof of Concepts och cloudlösningar. Med över 20 års erfarenhet
