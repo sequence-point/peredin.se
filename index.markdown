@@ -51,8 +51,11 @@ system t.ex. docker, Git, GitLab CI/CD, Terraform. Se mer under
 Tveka inte att [kontakta mig](mailto:per.edin@sequence-point.se) om ni behöver
 hjälp!
 
-En del av mina projekt har jag släppt som Open Source, du hittar dem på
-[GitHub](https://github.com/sequence-point).
-
 Jag utför alla uppdrag genom [Sequence Point AB](https://sequence-point.se).
 Innehar F-skatt.
+
+## Open Source
+
+Jag är delaktig i Open Source rörelsen och släpper en del av mina projekt
+under en MIT-license. Koden finnas att ladda ned från
+[GitHub](https://github.com/sequence-point).
