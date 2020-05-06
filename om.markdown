@@ -55,6 +55,7 @@ bygga Lego modeller eller programmera på mina egna
 
 Saknar du någon kompetens i listan nedan? [Hör av
 dig](mailto:per.edin@sequence-point.se) så kan vi säkerligen hitta en lösning.
+En del av min kod finns att beskåda på [GitHub](https://github.com/sequence-point).
 
 ### Programmeringspråk
 
