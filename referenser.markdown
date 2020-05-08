@@ -31,6 +31,25 @@ img {
 }
 </style>
 
+## ITAB
+
+![Kundkorg](/images/cart.jpg){: class="right"}
+
+ITAB är en av Europas främsta leverantörer av butikskoncept, kassadiskar och
+övrig butiksutrustning.
+
+På ITAB ingick jag i det team som ansvarade för implementationen av ITABs
+självscanningsslösningar:
+[EasyFLOW](https://itab.com/sv/itab/checkout/self-checkouts/),
+[TwinFLOW](https://itab.com/sv/itab/checkout/self-checkouts/)
+och
+[MoveFLOW](https://itab.com/sv/itab/checkout/self-checkouts/).
+Arbetet utfördes enligt SCRUM-metodiken, med daily standups och code review.
+Stort fokus lades på testning av ny och existerande funktionalitet, både
+manuellt och automatiskt.
+
+Teknik: C++, QML, Qt, QtQuick.
+
 ## Jordbruksverket
 
 ![Jordbruk](/images/agriculture.jpg){: class="right"}
