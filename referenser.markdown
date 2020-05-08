@@ -35,7 +35,8 @@ img {
 
 ![Jordbruk](/images/agriculture.jpg){: class="right"}
 
-SAM Internet är Jordbruksverkets interaktiva system för att ansöka om EU-stöd
+[SAM Internet](https://jordbruksverket.se/e-tjanster-och-databaser/e-tjanster-stod/sam-internet)
+är Jordbruksverkets interaktiva system för att ansöka om EU-stöd
 inom jordbruksprogrammen.
 
 Till SAM Internet bidrog jag med kunskaper inom utveckling av applikationer i
