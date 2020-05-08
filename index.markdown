@@ -55,5 +55,5 @@ Innehar F-skatt.
 ## Open Source
 
 Jag är delaktig i Open Source rörelsen och släpper en del av mina projekt
-under en MIT-licens. Koden finnas att ladda ned från
+under en MIT-licens. Koden finns att ladda ned från
 [GitHub](https://github.com/sequence-point).
