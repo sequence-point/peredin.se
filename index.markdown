@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Välkommen!
 ---
 
 <style>
@@ -29,8 +29,6 @@ img {
 	}
 }
 </style>
-
-<h1>Välkommen!</h1>
 
 ![Code in progress](/images/code.jpg){: class="right"}
 

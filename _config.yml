@@ -5,6 +5,9 @@ description: >-
 baseurl: ""
 url: "https://peredin.se/"
 lang: "sv"
+header_pages:
+  - om.markdown
+  - referenser.markdown
 
 theme: minima
 plugins:
