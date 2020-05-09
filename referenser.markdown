@@ -31,6 +31,8 @@ img {
 }
 </style>
 
+Här följer ett urval av de kunder jag haft under åren.
+
 ## ITAB
 
 ![Kundkorg](/images/cart.jpg){: class="right"}
