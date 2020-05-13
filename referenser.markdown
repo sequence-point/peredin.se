@@ -67,6 +67,19 @@ versionhanteringssystem.
 
 Teknik: Angular, Git, Java, OpenLayers, TypeScript.
 
+## Digilär
+
+![Utbildning](/images/education.jpg){: class="right"}
+
+Digilär är Natur & Kulturs, och en av Sveriges främsta, onlineplattformar för
+produktion och leverans av digitala läromedel.
+
+Till Digilär bidrog jag med kompetens inom versionshantering och
+vidareutveckling av deras existerande produkt, bl.a. implementering av
+interaktiva verktyg för elever.
+
+Teknik: Apache, Git MySQL, PHP, Xen.
+
 ## Woodland WMS 
 
 ![Woodland WMS](/images/woodland-wms.jpg){: class="right"}
